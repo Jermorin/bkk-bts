@@ -1,0 +1,212 @@
+[
+  {
+    "id": "W1",
+    "label_en": "National Stadium",
+    "label_th": "สนามกีฬาแห่งชาติ",
+    "category": "bts_silom"
+  },
+  {
+    "id": "CEN",
+    "label_en": "Siam",
+    "label_th": "สยาม",
+    "category": "bts_silom"
+  },
+  {
+    "id": "S1",
+    "label_en": "Ratchadamri",
+    "label_th": "ราชดำริ",
+    "category": "bts_silom"
+  },
+  {
+    "id": "S2",
+    "label_en": "Sala Daeng",
+    "label_th": "ศาลาแดง",
+    "category": "bts_silom"
+  },
+  {
+    "id": "S3",
+    "label_en": "Chong Nonsi",
+    "label_th": "ช่องนนทรี",
+    "category": "bts_silom"
+  },
+  {
+    "id": "S5",
+    "label_en": "Surasak",
+    "label_th": "สุรศักดิ์",
+    "category": "bts_silom"
+  },
+  {
+    "id": "S6",
+    "label_en": "Saphan Taksin",
+    "label_th": "สะพานตากสิน",
+    "category": "bts_silom"
+  },
+  {
+    "id": "S7",
+    "label_en": "Krung Thonburi",
+    "label_th": "กรุงธนบุรี",
+    "category": "bts_silom"
+  },
+  {
+    "id": "S8",
+    "label_en": "Wongwian Yai",
+    "label_th": "วงเวียนใหญ่",
+    "category": "bts_silom"
+  },
+  {
+    "id": "S9",
+    "label_en": "Pho Nimit",
+    "label_th": "โพธิ์นิมิตร",
+    "category": "bts_silom"
+  },
+  {
+    "id": "S10",
+    "label_en": "Talat Phlu",
+    "label_th": "ตลาดพลู",
+    "category": "bts_silom"
+  },
+  {
+    "id": "S11",
+    "label_en": "Wutthakat",
+    "label_th": "วุฒากาศ",
+    "category": "bts_silom"
+  },
+  {
+    "id": "S12",
+    "label_en": "Bang Wa",
+    "label_th": "บางหว้า",
+    "category": "bts_silom"
+  },
+  {
+    "id": "N8",
+    "label_en": "Mo Chit",
+    "label_th": "หมอชิต",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "N7",
+    "label_en": "Saphan Khwai",
+    "label_th": "สะพานควาย",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "N5",
+    "label_en": "Ari",
+    "label_th": "อารีย์",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "N4",
+    "label_en": "Sanam Pao",
+    "label_th": "สนามเป้า",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "N3",
+    "label_en": "Victory Monument",
+    "label_th": "อนุสาวรีย์ชัยสมรภูมิ",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "N2",
+    "label_en": "Phaya Thai",
+    "label_th": "พญาไท",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "N1",
+    "label_en": "Ratchathewi",
+    "label_th": "ราชเทวี",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "CEN",
+    "label_en": "Siam",
+    "label_th": "สยาม",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E1",
+    "label_en": "Chit Lom",
+    "label_th": "ชิดลม",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E2",
+    "label_en": "Phloen Chit",
+    "label_th": "เพลินจิต",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E3",
+    "label_en": "Nana",
+    "label_th": "นานา",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E4",
+    "label_en": "Asok",
+    "label_th": "อโศก",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E5",
+    "label_en": "Phrom Phong",
+    "label_th": "พร้อมพงษ์",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E6",
+    "label_en": "Thong Lo",
+    "label_th": "ทองหล่อ",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E7",
+    "label_en": "Ekkamai",
+    "label_th": "เอกมัย",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E8",
+    "label_en": "Phra Khanong",
+    "label_th": "พระโขนง",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E9",
+    "label_en": "On Nut",
+    "label_th": "อ่อนนุช",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E10",
+    "label_en": "Bang Chak",
+    "label_th": "บางจาก",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E11",
+    "label_en": "Punnawithi",
+    "label_th": "ปุณณวิถี",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E12",
+    "label_en": "Udom Suk",
+    "label_th": "อุดมสุข",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E13",
+    "label_en": "Bang Na",
+    "label_th": "บางนา",
+    "category": "bts_sukhumvit"
+  },
+  {
+    "id": "E14",
+    "label_en": "Bearing",
+    "label_th": "แบริ่ง",
+    "category": "bts_sukhumvit"
+  }
+]
